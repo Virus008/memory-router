@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory-router/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/memory-router/static/js/main.64a9e31a.chunk.js",
+    "main.js.map": "/memory-router/static/js/main.64a9e31a.chunk.js.map",
+    "runtime-main.js": "/memory-router/static/js/runtime-main.1b94b6b8.js",
+    "runtime-main.js.map": "/memory-router/static/js/runtime-main.1b94b6b8.js.map",
+    "static/js/2.60495ed8.chunk.js": "/memory-router/static/js/2.60495ed8.chunk.js",
+    "static/js/2.60495ed8.chunk.js.map": "/memory-router/static/js/2.60495ed8.chunk.js.map",
+    "index.html": "/memory-router/index.html",
+    "precache-manifest.d12ea0031df6b0478c638f5fcdaaf45b.js": "/memory-router/precache-manifest.d12ea0031df6b0478c638f5fcdaaf45b.js",
+    "service-worker.js": "/memory-router/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/memory-router/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.60495ed8.chunk.js.LICENSE.txt": "/memory-router/static/js/2.60495ed8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b94b6b8.js",
+    "static/js/2.60495ed8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.64a9e31a.chunk.js"
+  ]
+}
